@@ -26,3 +26,5 @@ Developed and maintained various conference talks, online training, and in-perso
 ### Leadership
 
 Managed multiple _asynchronous teams_ in the development, maintenance, and release of various web applications and websites.
+
+[![Step 4, Add branch protections](https://github.com/Nixk01/skills-test-with-actions2/actions/workflows/4-add-branch-protections.yml/badge.svg)](https://github.com/Nixk01/skills-test-with-actions2/actions/workflows/4-add-branch-protections.yml)
